@@ -11,3 +11,5 @@
 # change texts in 0.0.2
 
 # change another texts in 0.0.2
+
+# change text 3. time in 0.0.2
